@@ -55,7 +55,6 @@ The project requires the following Python libraries:
 - imblearn
 - shap
 - jupyter
-- xgboost
 
 You can install all dependencies using:
 ```bash
