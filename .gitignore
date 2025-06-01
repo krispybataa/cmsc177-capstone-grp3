@@ -1,0 +1,6 @@
+# Ignore RAWs folder
+RAWs/
+
+# Ignore specific files
+manipulate.py
+"Member Assignments.txt"
