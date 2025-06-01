@@ -6,3 +6,4 @@ scikit-learn
 imblearn
 shap
 jupyter
+lime
