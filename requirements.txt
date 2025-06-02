@@ -7,3 +7,4 @@ imblearn
 shap
 jupyter
 lime
+graphviz
